@@ -3,7 +3,15 @@ if Hungry == "yes":
     print("eat food")
     print("eat pizza")
     print("eat fries")
+    print("eat cake")
+    print("eat bread")
 else:
-    print("do a work")
+    thirsty = input("r u thirsty :")
+    if thirsty == "yes":
+       print("do a work")
+       print("drink water")
+       print("drink soda")
+
+
 
 
